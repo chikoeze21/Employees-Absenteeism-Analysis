@@ -1,6 +1,6 @@
 # Employees-Absenteeism-Analysis
 
-![Image 1](images/absenteeism.jpg)
+![](Absentism/.jpg)
 
 #### Introduction
 
